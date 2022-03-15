@@ -14,3 +14,23 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+.circle{
+    width: 40rem;
+    height: 40rem;
+    background-color: white;
+    border-radius: 50%;
+    box-shadow: 0 0 0 5rem red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.center{
+    width: 20rem;
+    height: 20rem;
+    background-color: blue;
+    border-radius: 50%;
+    box-shadow: 0 0 0 5rem red;
+    position: relative;
+}
