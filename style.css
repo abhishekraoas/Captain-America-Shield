@@ -48,5 +48,16 @@ body{
 .arrow:first-child{
     top: 5.5rem;
     left: 1rem;
-    border-top-color: yellow;
+}
+
+.arrow:nth-child(2){
+    transform: rotate(68deg);
+    left: -3.5rem;
+    top: 3.5rem;
+}
+
+.arrow:last-child{
+    transform: rotate(-68deg);
+    left: 5.5rem;
+    top: 3.5rem;
 }
