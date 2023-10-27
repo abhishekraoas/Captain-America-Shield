@@ -19,4 +19,4 @@ captain-america-shield/
 
 ## Output Of The Code
 
-![Captain America Shield](images/shield.png)
+![Captain America Shield](/images/shield.png)
