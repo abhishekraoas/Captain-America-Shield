@@ -17,6 +17,6 @@ captain-america-shield/
 └── README.md
 ```
 
-## Output Of The Code
+## SnapShot
 
 ![Captain America Shield](/images/shield.png)
