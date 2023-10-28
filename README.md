@@ -17,6 +17,7 @@ captain-america-shield/
 └── README.md
 ```
 
-## Output Of The Code
+## SnapShot
 
-![Captain America Shield](/images/shield.png)
+![Captain America Shield](https://github.com/abhishekraoas/Captain-America-Shield/assets/53809098/76b28aba-795d-499a-92f3-2c2cc433c395)
+
